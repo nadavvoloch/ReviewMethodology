@@ -1,0 +1,10 @@
+ID,Title,Authors,Year,Publication platform,DOI,URL,reason for exclusion
+1001,"Connecting the dots in trustworthy Artificial Intelligence: From AI principles, ethics, and key requirements to responsible AI systems and regulation",Díaz-Rodríguez et al.,2023,Information Fusion,,https://www.sciencedirect.com/science/article/pii/S1566253523002129,Topic not clear
+1002,The impact of artificial intelligence on data privacy: a risk management perspective,Mooradian,2025,Risk Management Journal,,https://www.emerald.com/rmj/article/35/2/147/1264240/The-impact-of-artificial-intelligence-on-data,Topic not clear
+1003,Privacy Preservation in Artificial Intelligence and Extended Reality (AI-XR) Metaverses: A Survey,Alkaeed et al.,2023,arXiv,,https://arxiv.org/abs/2310.10665,Duplicate
+1004,"Federated Learning: A Survey of Core Challenges, Current Advances, and Future Directions",Baduwal,2026,Preprints.org,,https://www.preprints.org/manuscript/202601.0271,Scientific weakness
+1005,"Evaluating Privacy, Security, and Trust Perceptions in Conversational AI: A Systematic Review",Leschanowsky et al.,2024,arXiv,,https://arxiv.org/abs/2406.09037,Scope mismatch
+1006,Navigating AI to Unpack Youth Privacy Concerns: An In-Depth Exploration and Systematic Review,Shrestha et al.,2024,arXiv,,https://arxiv.org/abs/2412.16369,Wrong focus
+1007,A Survey on Differential Privacy with Machine Learning and Future Outlook,Baraheem & Yao,2022,arXiv,,https://arxiv.org/abs/2211.10708,Too narrow scope
+1008,Privacy and Copyright Protection in Generative AI: A Lifecycle Perspective,Zhang et al.,2023,arXiv,,https://arxiv.org/abs/2311.18252,Wrong outcome focus
+1009,Scaling trustworthy AI: A framework for responsible system development,"Louis, Martin ",2023,GJETA,https://doi.org/10.30574/gjeta.2023.17.3.0232,https://gjeta.com/sites/default/files/GJETA-2023-0232.pdf,Venue quality concern
